@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://img.freepik.com/free-photo/abstract-flowing-neon-wave-background_53876-101942.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px 40px;
+    width: 34cm;
+    height: 15cm;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+h2 {
+    font-family: Georgia;
+    color: darkmagenta;
+}
+h3 {
+    color: rgb(253, 251, 251);
+}
+i {
+    margin-left: 15px;
+    color: aliceblue;
+}
+pre {
+    font: 60%;
+    font-family: Georgia;
+    color: rgb(250, 250, 250);
+}
+span {
+    font-size: large;
+    letter-spacing: 0.01cm;
+} 
+.followup {
+    padding: 10px;
+}   
