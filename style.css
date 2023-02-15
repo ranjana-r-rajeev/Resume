@@ -6,6 +6,8 @@ body {
     width: 34cm;
     height: 15cm;
 }
+a:hover {
+  background-color: yellow;
 img {
     width: 200px;
     height: 200px;
