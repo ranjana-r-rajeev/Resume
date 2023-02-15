@@ -13,11 +13,11 @@ img {
 }
 h1 {
     font-family: 'Times New Roman', Times, serif;
-    color: blueviolet;
+    color: rgb(202, 157, 245);
 }
 h2 {
     font-family: Georgia;
-    color: darkmagenta;
+    color: rgb(241, 180, 241);
 }
 h3 {
     color: rgb(253, 251, 251);
